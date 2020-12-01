@@ -10,13 +10,17 @@ CONFIG += c++11
 
 SOURCES += \
     cuerpo.cpp \
+    enemy.cpp \
     main.cpp \
     mainwindow.cpp \
+    moneda.cpp \
     pared.cpp
 
 HEADERS += \
     cuerpo.h \
+    enemy.h \
     mainwindow.h \
+    moneda.h \
     pared.h
 
 FORMS += \
